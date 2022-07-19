@@ -22,3 +22,7 @@ time.sleep(10)
 #driver.close() #close the browser(close 1 browser at a time)(close currently foccused browser)
 
 #driver.quit() # closes all the browser
+
+
+time.sleep(50)
+print('done')
