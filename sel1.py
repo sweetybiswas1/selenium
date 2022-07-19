@@ -24,5 +24,5 @@ time.sleep(10)
 #driver.quit() # closes all the browser
 
 
-time.sleep(50)
-print('done')
+# time.sleep(50)
+# print('done')
